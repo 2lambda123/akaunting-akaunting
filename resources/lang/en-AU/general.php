@@ -20,7 +20,7 @@ return [
     'expense_transfers'     => 'Expense Transfer|Expense Transfers',
     'transactions'          => 'Transaction|Transactions',
     'payments'              => 'Payment|Payments',
-    'recurring_transactions'=> 'Recurring Transaction|Recurring Transactions',
+    'recurring_transactions' => 'Recurring Transaction|Recurring Transactions',
     'reports'               => 'Report|Reports',
     'settings'              => 'Setting|Settings',
     'categories'            => 'Category|Categories',
