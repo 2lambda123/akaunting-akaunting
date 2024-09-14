@@ -41,7 +41,7 @@ return [
     'payment_history'       => [
         'title'             => 'Payment History',
         'description'       => ':date - You made a payment of :amount.',
-        'invoice_description'=> ':date - You made a payment of :amount for invoice number :invoice_number.',
+        'invoice_description' => ':date - You made a payment of :amount for invoice number :invoice_number.',
 
         'no_data'           => 'You have not payment history, yet.',
     ],
